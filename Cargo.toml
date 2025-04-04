@@ -27,3 +27,15 @@ path="src/exercise1.rs"
 [[bin]]
 name="exercise2"
 path="src/exercise2.rs"
+
+[[bin]]
+name="unused_var"
+path="src/unused_var.rs"
+
+[[bin]]
+name="sep_var"
+path="src/sep_var.rs"
+
+[[bin]]
+name="destruct_assignment"
+path="src/destruct_assignment.rs"
