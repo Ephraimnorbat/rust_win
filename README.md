@@ -26,4 +26,15 @@ Floating point - f64
  =40 + 2
  =42
 
- What is a number -40min
+Day 5 of learning Rust
+
+ What is a number
+ Processor does NOT read 1 byte at a time from memory ,reads 1 word at a time.
+ In a 32 bit processor a word is 4 bytes(32 bits).
+ In a 64 bit processor a word is 8 bytes(64 bits)
+
+usize gives you the guarantee to be always big enough to hold any pointer or any offset in a data structure.
+Floating Point
+f32 - size of 32 bits
+f64 - size of 64 bits
+Representation according to IEEE 754 specification.
